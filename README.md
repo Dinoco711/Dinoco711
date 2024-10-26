@@ -33,7 +33,7 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 Feel free to reach out for collaborations, queries, or just a friendly chat!
 
-- Email: youremail@example.com
+- Email: crazyarena8@gmail.com
 
 ---
 
