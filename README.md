@@ -4,8 +4,8 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning about **AI Chatbots** and **Web Development**.
-- 💼 I run a web development agency called **Dinoco** and an AI agency named **Nexobotics**.
+- 🌱 I’m currently learning about **AI Chatbots** and **AI Automation**.
+- 💼 I run a web development agency called **Dinoco Studios** and an AI agency named **Nexobotics**.
 - 🎥 I’m building my personal brand through storytelling motivational videos on my channel **FervionX**.
 - 🤖 I’m also interested in developing AI solutions that help businesses grow.
 
@@ -13,8 +13,8 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 - **Languages:** JavaScript, Python
 - **Web Technologies:** HTML, CSS, React
-- **AI & Machine Learning:** TensorFlow, PyTorch
-- **Tools:** Git, GitHub, Figma, VS Code
+- **AI & Machine Learning:** Python
+- **Tools:** Canva, GitHub, Figma, VS Code
 
 ## 🌍 Connect with Me
 
