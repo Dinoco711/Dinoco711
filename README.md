@@ -18,7 +18,7 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 ## 🌍 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/prathams711)
+- [LinkedIn](https://www.linkedin.com/in/prathams711)
 - [Twitter](https://twitter.com/yourprofile)
 - [Instagram](https://instagram.com/pro.x.ace)
 - [YouTube](https://youtube.com/c/FervionX)
