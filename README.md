@@ -27,13 +27,12 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 - [Dinoco](https://github.com/yourusername/dinoco): A web development agency focused on creating top-tier websites.
 - [Nexobotics](https://github.com/yourusername/nexobotics): Specializing in AI chatbot development and integration.
-- [FervionX](https://youtube.com/c/FervionX): Sharing motivational content and courses on various topics.
 
 ## 📫 How to Reach Me
 
 Feel free to reach out for collaborations, queries, or just a friendly chat!
 
-- Email: crazyarena8@gmail.com
+- Email: s-pratham@outlook.com
 
 ---
 
