@@ -23,6 +23,14 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 - [Instagram](https://instagram.com/pro.x.ace)
 - [YouTube](https://youtube.com/c/FervionX)
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dinoco711&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+  <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoco711&theme=radical" alt="GitHub Streak" width="100%" />
+</p>
+
+---
 ## 📈 My Projects
 
 - [Dinoco](https://github.com/yourusername/dinoco): A web development agency focused on creating top-tier websites.
