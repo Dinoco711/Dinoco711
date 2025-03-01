@@ -37,3 +37,4 @@ Feel free to reach out for collaborations, queries, or just a friendly chat!
 ---
 
 Thanks for visiting my profile! 🌟
+![Visitor Count](https://profile-counter.glitch.me/dinoco711/count.svg)
